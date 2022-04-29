@@ -1,0 +1,178 @@
+# Project exclude paths
+/.gradle/
+/Desktop Tic-Tac-Toe/task/build/
+/Desktop Tic-Tac-Toe/task/out/
+/Desktop Tic-Tac-Toe/task/out/production/classes/
+/Topics/Function composition/Disjunct all/out/
+/Topics/Function composition/Disjunct all/out/production/classes/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/
+/Topics/Iterating over arrays/The maximum product of adjacent elements/out/production/classes/
+/Topics/Optional/Create an Optional value/out/
+/Topics/Optional/Create an Optional value/out/production/classes/
+/Topics/Standard logger/Find integer values of Log levels/out/
+/Topics/Standard logger/Find integer values of Log levels/out/production/classes/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/
+/Topics/Stream pipelines/The total sum of canceled transactions/out/production/classes/
+# Project exclude paths
+/Topics/Anonymous classes properties/Calculator/out/
+/Topics/Anonymous classes properties/Calculator/out/production/classes/
+/Topics/Anonymous classes properties/Create instance/out/
+/Topics/Anonymous classes properties/Create instance/out/production/classes/
+/Topics/Anonymous classes properties/Fixing the code/out/
+/Topics/Anonymous classes properties/Fixing the code/out/production/classes/
+/Topics/Anonymous classes properties/Iterations/out/
+/Topics/Anonymous classes properties/Iterations/out/production/classes/
+/Topics/Anonymous classes properties/Managing a process/out/
+/Topics/Anonymous classes properties/Managing a process/out/production/classes/
+/Topics/Anonymous classes properties/My possibilities/out/
+/Topics/Anonymous classes properties/My possibilities/out/production/classes/
+/Topics/Anonymous classes properties/Theory/out/
+/Topics/Anonymous classes properties/Theory/out/production/classes/
+/Topics/Collectors/Set average/out/
+/Topics/Collectors/Set average/out/production/classes/
+/Topics/Collectors/Theory/out/
+/Topics/Collectors/Theory/out/production/classes/
+/Topics/Custom threads/Theory/out/
+/Topics/Custom threads/Theory/out/production/classes/
+/Topics/Custom threads/When will a thread start performing a task/out/
+/Topics/Custom threads/When will a thread start performing a task/out/production/classes/
+/Topics/Functional data processing with streams/Count passwords/out/
+/Topics/Functional data processing with streams/Count passwords/out/production/classes/
+/Topics/Functional data processing with streams/Print elements of a stream/out/
+/Topics/Functional data processing with streams/Print elements of a stream/out/production/classes/
+/Topics/Functional data processing with streams/Statements about stream operations/out/
+/Topics/Functional data processing with streams/Statements about stream operations/out/production/classes/
+/Topics/Functional data processing with streams/Terminal operations with streams/out/
+/Topics/Functional data processing with streams/Terminal operations with streams/out/production/classes/
+/Topics/Functional data processing with streams/Theory/out/
+/Topics/Functional data processing with streams/Theory/out/production/classes/
+/Topics/Infinite streams/Generating cats/out/
+/Topics/Infinite streams/Generating cats/out/production/classes/
+/Topics/Infinite streams/Making a stream finite/out/
+/Topics/Infinite streams/Making a stream finite/out/production/classes/
+/Topics/Infinite streams/Making a stream finite (1)/out/
+/Topics/Infinite streams/Making a stream finite (1)/out/production/classes/
+/Topics/Infinite streams/Select output/out/
+/Topics/Infinite streams/Select output/out/production/classes/
+/Topics/Infinite streams/Theory/out/
+/Topics/Infinite streams/Theory/out/production/classes/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/
+/Topics/Iterating over arrays/Count how many times a number occurs/out/production/classes/
+/Topics/Iterating over arrays/Does an array contain N/out/
+/Topics/Iterating over arrays/Does an array contain N/out/production/classes/
+/Topics/Iterating over arrays/Find the sum/out/
+/Topics/Iterating over arrays/Find the sum/out/production/classes/
+/Topics/Iterating over arrays/Individual taxes/out/
+/Topics/Iterating over arrays/Individual taxes/out/production/classes/
+/Topics/Iterating over arrays/Select loops/out/
+/Topics/Iterating over arrays/Select loops/out/production/classes/
+/Topics/Iterating over arrays/Select one loop/out/
+/Topics/Iterating over arrays/Select one loop/out/production/classes/
+/Topics/Iterating over arrays/Theory/out/
+/Topics/Iterating over arrays/Theory/out/production/classes/
+/Topics/Map and flatMap/Maximum of the absolute values/out/
+/Topics/Map and flatMap/Maximum of the absolute values/out/production/classes/
+/Topics/Map and flatMap/Sorting the absolute values/out/
+/Topics/Map and flatMap/Sorting the absolute values/out/production/classes/
+/Topics/Map and flatMap/Statements/out/
+/Topics/Map and flatMap/Statements/out/production/classes/
+/Topics/Map and flatMap/Theory/out/
+/Topics/Map and flatMap/Theory/out/production/classes/
+/Topics/Optional/Check an Optional value/out/
+/Topics/Optional/Check an Optional value/out/production/classes/
+/Topics/Optional/Sum up optional values/out/
+/Topics/Optional/Sum up optional values/out/production/classes/
+/Topics/Optional/The address book/out/
+/Topics/Optional/The address book/out/production/classes/
+/Topics/Optional/Theory/out/
+/Topics/Optional/Theory/out/production/classes/
+/Topics/Reduction methods/Calculating factorials/out/
+/Topics/Reduction methods/Calculating factorials/out/production/classes/
+/Topics/Reduction methods/Range quadratic sum/out/
+/Topics/Reduction methods/Range quadratic sum/out/production/classes/
+/Topics/Reduction methods/Theory/out/
+/Topics/Reduction methods/Theory/out/production/classes/
+/Topics/Standard functional interfaces/Accounts/out/
+/Topics/Standard functional interfaces/Accounts/out/production/classes/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/
+/Topics/Standard functional interfaces/An infinite numbers supplier/out/production/classes/
+/Topics/Standard functional interfaces/Describe the function/out/
+/Topics/Standard functional interfaces/Describe the function/out/production/classes/
+/Topics/Standard functional interfaces/Package java.util.function/out/
+/Topics/Standard functional interfaces/Package java.util.function/out/production/classes/
+/Topics/Standard functional interfaces/Select suitable interfaces/out/
+/Topics/Standard functional interfaces/Select suitable interfaces/out/production/classes/
+/Topics/Standard functional interfaces/Ternary operator/out/
+/Topics/Standard functional interfaces/Ternary operator/out/production/classes/
+/Topics/Standard functional interfaces/Theory/out/
+/Topics/Standard functional interfaces/Theory/out/production/classes/
+/Topics/Standard logger/Handler Classes/out/
+/Topics/Standard logger/Handler Classes/out/production/classes/
+/Topics/Standard logger/Theory/out/
+/Topics/Standard logger/Theory/out/production/classes/
+/Topics/Stream filtering/Check if a number is prime/out/
+/Topics/Stream filtering/Check if a number is prime/out/production/classes/
+/Topics/Stream filtering/Omitting long strings/out/
+/Topics/Stream filtering/Omitting long strings/out/production/classes/
+/Topics/Stream filtering/Theory/out/
+/Topics/Stream filtering/Theory/out/production/classes/
+/Topics/Stream pipelines/Programming paradigms/out/
+/Topics/Stream pipelines/Programming paradigms/out/production/classes/
+/Topics/Stream pipelines/The sum of odd numbers/out/
+/Topics/Stream pipelines/The sum of odd numbers/out/production/classes/
+/Topics/Stream pipelines/The ten most frequent words/out/
+/Topics/Stream pipelines/The ten most frequent words/out/production/classes/
+/Topics/Stream pipelines/The total number of employees/out/
+/Topics/Stream pipelines/The total number of employees/out/production/classes/
+/Topics/Stream pipelines/Theory/out/
+/Topics/Stream pipelines/Theory/out/production/classes/
+/Topics/Streams of primitives/A stream without zero/out/
+/Topics/Streams of primitives/A stream without zero/out/production/classes/
+/Topics/Streams of primitives/Hello world stream/out/
+/Topics/Streams of primitives/Hello world stream/out/production/classes/
+/Topics/Streams of primitives/Producing streams/out/
+/Topics/Streams of primitives/Producing streams/out/production/classes/
+/Topics/Streams of primitives/The average salary/out/
+/Topics/Streams of primitives/The average salary/out/production/classes/
+/Topics/Streams of primitives/The default value of summary statistics/out/
+/Topics/Streams of primitives/The default value of summary statistics/out/production/classes/
+/Topics/Streams of primitives/Theory/out/
+/Topics/Streams of primitives/Theory/out/production/classes/
+/Topics/Taking elements/Secret codes/out/
+/Topics/Taking elements/Secret codes/out/production/classes/
+/Topics/Taking elements/Sorting and skipping numbers/out/
+/Topics/Taking elements/Sorting and skipping numbers/out/production/classes/
+/Topics/Taking elements/Theory/out/
+/Topics/Taking elements/Theory/out/production/classes/
+/Topics/Thread management/Calculate the number of distinct characters/out/
+/Topics/Thread management/Calculate the number of distinct characters/out/production/classes/
+/Topics/Thread management/Join/out/
+/Topics/Thread management/Join/out/production/classes/
+/Topics/Thread management/Ordering the execution of threads/out/
+/Topics/Thread management/Ordering the execution of threads/out/production/classes/
+/Topics/Thread management/Sleep/out/
+/Topics/Thread management/Sleep/out/production/classes/
+/Topics/Thread management/The order of lines/out/
+/Topics/Thread management/The order of lines/out/production/classes/
+/Topics/Thread management/Theory/out/
+/Topics/Thread management/Theory/out/production/classes/
+/Topics/Thread management/VeganPizza/out/
+/Topics/Thread management/VeganPizza/out/production/classes/
+/Topics/Threads as objects/Counting threads/out/
+/Topics/Threads as objects/Counting threads/out/production/classes/
+/Topics/Threads as objects/Getting current thread info/out/
+/Topics/Threads as objects/Getting current thread info/out/production/classes/
+/Topics/Threads as objects/Is thread daemon/out/
+/Topics/Threads as objects/Is thread daemon/out/production/classes/
+/Topics/Threads as objects/Theory/out/
+/Topics/Threads as objects/Theory/out/production/classes/
+/Topics/Threads as objects/Thread name/out/
+/Topics/Threads as objects/Thread name/out/production/classes/
+/Topics/Window listeners/Add a window/out/
+/Topics/Window listeners/Add a window/out/production/classes/
+/Topics/Window listeners/Count a window active time/out/
+/Topics/Window listeners/Count a window active time/out/production/classes/
+/Topics/Window listeners/Implement a listener/out/
+/Topics/Window listeners/Implement a listener/out/production/classes/
+/Topics/Window listeners/Theory/out/
+/Topics/Window listeners/Theory/out/production/classes/
